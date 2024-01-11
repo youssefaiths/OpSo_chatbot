@@ -24,10 +24,7 @@ cd Mental-health-Chatbot/
 ```
 python -m venv venv
 ```
-on Linux system
-```
-source venv/bin/activate
-```
+
 on Windows system
 ```
 .\venv\Scripts\activate.bat
